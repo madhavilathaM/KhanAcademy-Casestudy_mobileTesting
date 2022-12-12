@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="7" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-11T22:20:35 IST" name="Default suite" finished-at="2022-12-11T22:26:53 IST" duration-ms="378647">
+    <groups>
+    </groups>
+    <test started-at="2022-12-11T22:20:35 IST" name="Default test" finished-at="2022-12-11T22:26:53 IST" duration-ms="378647">
+      <class name="Khan_Hybrid.Khan_Acadamey">
+        <test-method is-config="true" signature="beforetest()[pri:0, instance:Khan_Hybrid.Khan_Acadamey@53aac487]" started-at="2022-12-11T22:20:35 IST" name="beforetest" finished-at="2022-12-11T22:20:50 IST" duration-ms="15369" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforetest -->
+        <test-method signature="Signin()[pri:0, instance:Khan_Hybrid.Khan_Acadamey@53aac487]" started-at="2022-12-11T22:20:50 IST" name="Signin" finished-at="2022-12-11T22:21:40 IST" duration-ms="49460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Signin -->
+        <test-method signature="selectLanguage()[pri:1, instance:Khan_Hybrid.Khan_Acadamey@53aac487]" started-at="2022-12-11T22:21:40 IST" name="selectLanguage" finished-at="2022-12-11T22:22:03 IST" duration-ms="23034" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- selectLanguage -->
+        <test-method signature="explore1()[pri:2, instance:Khan_Hybrid.Khan_Acadamey@53aac487]" started-at="2022-12-11T22:22:03 IST" name="explore1" finished-at="2022-12-11T22:22:37 IST" duration-ms="33954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- explore1 -->
+        <test-method signature="Addbookmarks()[pri:3, instance:Khan_Hybrid.Khan_Acadamey@53aac487]" started-at="2022-12-11T22:22:37 IST" name="Addbookmarks" finished-at="2022-12-11T22:23:27 IST" duration-ms="49931" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Addbookmarks -->
+        <test-method signature="deletebookmark()[pri:4, instance:Khan_Hybrid.Khan_Acadamey@53aac487]" started-at="2022-12-11T22:23:27 IST" name="deletebookmark" finished-at="2022-12-11T22:23:49 IST" duration-ms="22541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletebookmark -->
+        <test-method signature="sharevedio1()[pri:5, instance:Khan_Hybrid.Khan_Acadamey@53aac487]" started-at="2022-12-11T22:23:49 IST" name="sharevedio1" finished-at="2022-12-11T22:26:53 IST" duration-ms="184251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sharevedio1 -->
+      </class> <!-- Khan_Hybrid.Khan_Acadamey -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
